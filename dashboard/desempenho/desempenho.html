@@ -1,0 +1,21 @@
+<div class="student-dashboard-section">
+    <h2>Dashboard de Desempenho do Aluno Individual</h2>
+    <div class="student-input">
+        <label for="studentIdInput">ID do Aluno:</label>
+        <input type="number" id="studentIdInput" placeholder="Digite o ID do aluno">
+        <button id="loadStudentDataButton">Carregar Dados</button>
+    </div>
+    <div class="student-info-card">
+        <h3>Informações do Aluno <span id="currentStudentId"></span></h3>
+        <p><strong>Nota em Matemática:</strong> <span id="studentMathScore">Carregando...</span></p>
+        <p><strong>Nota em Linguagens:</strong> <span id="studentLanguageScore">Carregando...</span></p>
+        <p><strong>Faltas:</strong> <span id="studentAbsences">Carregando...</span></p>
+        <p><strong>Participação:</strong> <span id="studentParticipation">Carregando...</span></p>
+        <p><strong>Conclusão de Tarefas:</strong> <span id="studentHomeworkCompletion">Carregando...</span></p>
+        <p><strong>Desempenho Anterior:</strong> <span id="studentPreviousPerformance">Carregando...</span></p>
+    </div>
+    <div class="chart-container full-width">
+        <h2>Comparação do Desempenho do Aluno</h2>
+        <canvas id="studentComparisonChart"></canvas>
+    </div>
+</div>

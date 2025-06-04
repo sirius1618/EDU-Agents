@@ -3,62 +3,115 @@
 <head>
     <title>Dashboard de Desempenho Estudantil</title>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="/dashboard/styles.css">
+    <link rel="stylesheet" href="styles.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
-    <div class="container">
-        <h1>Análise de Desempenho dos Alunos</h1>
-        
-        <div class="stats-container">
-            <div class="stat-card">
-                <h3>Média Matemática</h3>
-                <p id="math-avg">Carregando...</p>
-            </div>
-            <div class="stat-card">
-                <h3>Média Linguagens</h3>
-                <p id="language-avg">Carregando...</p>
-            </div>
-            <div class="stat-card">
-                <h3>Alunos com Muitas Faltas</h3>
-                <p id="high-absences">Carregando...</p>
-            </div>
-            <div class="stat-card">
-                <h3>Baixa Entrega de Tarefas</h3>
-                <p id="low-homework">Carregando...</p>
-            </div>
+<header class="main-header">
+    <nav class="nav-tabs">
+        <button id="btn-dashboard-main" class="active">Dashboard Geral</button>
+        <button id="btn-dashboard-student">Dashboard Individual</button>
+    </nav>
+</header>
+<div id="mainDashboard" class="container">
+    <h1>Análise de Desempenho dos Alunos</h1>
+
+    <div class="stats-container">
+        <div class="stat-card">
+            <h3>Média Matemática</h3>
+            <p id="math-avg">Carregando...</p>
         </div>
-        
-        <div class="chart-row">
-            <div class="chart-container">
-                <h2>Desempenho em Matemática vs Linguagens</h2>
-                <canvas id="comparisonChart"></canvas>
-            </div>
-            <div class="chart-container">
-                <h2>Relação: Faltas vs Notas em Matemática</h2>
-                <canvas id="absencesChart"></canvas>
-            </div>
+        <div class="stat-card">
+            <h3>Média Linguagens</h3>
+            <p id="language-avg">Carregando...</p>
         </div>
-        
-        <div class="chart-row">
-            <div class="chart-container">
-                <h2>Participação vs Notas em Matemática</h2>
-                <canvas id="participationChart"></canvas>
-            </div>
-            <div class="chart-container">
-                <h2>Correlação Entre Variáveis</h2>
-                <canvas id="correlationChart"></canvas>
-            </div>
+        <div class="stat-card">
+            <h3>Alunos com Muitas Faltas</h3>
+            <p id="high-absences">Carregando...</p>
         </div>
-        
-        <div class="chart-row">
-            <div class="chart-container full-width">
-                <h2>Top 10 Alunos em Matemática</h2>
-                <canvas id="topStudentsChart"></canvas>
-            </div>
+        <div class="stat-card">
+            <h3>Baixa Entrega de Tarefas</h3>
+            <p id="low-homework">Carregando...</p>
         </div>
     </div>
-    
-    <script src="/dashboard/script.js"></script>
+
+    <div class="chart-row">
+        <div class="chart-container">
+            <h2>Desempenho em Matemática vs Linguagens</h2>
+            <canvas id="comparisonChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <h2>Relação: Faltas vs Notas em Matemática</h2>
+            <canvas id="absencesChart"></canvas>
+        </div>
+    </div>
+
+    <div class="chart-row">
+        <div class="chart-container">
+            <h2>Participação vs Notas em Matemática</h2>
+            <canvas id="participationChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <h2>Correlação Entre Variáveis</h2>
+            <canvas id="correlationChart"></canvas>
+        </div>
+    </div>
+
+    <div class="chart-row">
+        <div class="chart-container full-width">
+            <h2>Top 10 Alunos em Matemática</h2>
+            <canvas id="topStudentsChart"></canvas>
+        </div>
+    </div>
+</div>
+
+<!-- DASHBOARD INDIVIDUAL -->
+<div id="studentDashboard" class="container" style="display: none;">
+    <h1>Análise de Desempenho Individual</h1>
+
+    <div class="student-input">
+        <label for="studentIdInput">ID do Aluno:</label>
+        <input type="number" id="studentIdInput" placeholder="Digite o ID do aluno">
+        <button id="loadStudentDataButton">Carregar Dados</button>
+    </div>
+
+    <div class="stats-container">
+        <div class="stat-card">
+            <h3>ID do Aluno</h3>
+            <p id="currentStudentId">---</p>
+        </div>
+        <div class="stat-card">
+            <h3>Nota em Matemática</h3>
+            <p id="studentMathScore">---</p>
+        </div>
+        <div class="stat-card">
+            <h3>Nota em Linguagens</h3>
+            <p id="studentLanguageScore">---</p>
+        </div>
+        <div class="stat-card">
+            <h3>Faltas</h3>
+            <p id="studentAbsences">---</p>
+        </div>
+        <div class="stat-card">
+            <h3>Participação</h3>
+            <p id="studentParticipation">---</p>
+        </div>
+        <div class="stat-card">
+            <h3>Conclusão de Tarefas</h3>
+            <p id="studentHomeworkCompletion">---</p>
+        </div>
+        <div class="stat-card">
+            <h3>Desempenho Anterior</h3>
+            <p id="studentPreviousPerformance">---</p>
+        </div>
+    </div>
+
+    <div class="chart-container full-width">
+        <h2>Comparação do Desempenho do Aluno</h2>
+        <canvas id="studentComparisonChart"></canvas>
+    </div>
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>

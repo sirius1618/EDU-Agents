@@ -85,3 +85,79 @@ h1 {
     font-size: 20px;
     text-align: center;
 }
+
+.main-header {
+  background-color: #fff;
+  padding: 10px 20px;
+  border-bottom: 2px solid #3498db;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  margin-bottom: 20px;
+}
+
+.nav-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.nav-tabs button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #eee;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.nav-tabs button:hover {
+    background-color: #ddd;
+}
+
+.nav-tabs button.active {
+    background-color: #007BFF;
+    color: white;
+    font-weight: bold;
+}
+
+.student-dashboard-section h2 {
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 10px;
+}
+
+.student-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.student-input input {
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  width: 200px;
+}
+
+.student-input button {
+  padding: 8px 16px;
+  font-size: 16px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.student-input button:hover {
+  background-color: #2980b9;
+}
+
