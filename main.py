@@ -16,7 +16,7 @@ async def executar_agentes():
         os.getenv("SENHA_AGENTE_DESEMPENHO"),
     )
     
-    await agente.start()
+    await agente.start(auto_register=True)
     print("Agente em execução. Pressione Ctrl+C para encerrar.")
     
     try:

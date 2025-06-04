@@ -1,0 +1,4002 @@
+[
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não me sinto seguro no entorno da escola.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Tivemos um intervalo de 15 minutos.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Há muito barulho durante as aulas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Os professores são muito atenciosos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A aula terminou no horário habitual.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltam livros atualizados na biblioteca.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "As aulas são bem planejadas e interessantes.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Recebi as notas do trimestre hoje.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Adorei a aula de hoje, foi muito produtiva.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "O ambiente da escola é acolhedor.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A biblioteca ficou aberta até as 16h.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola está precisando de reformas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A merenda estava ruim hoje.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Gosto muito das atividades extracurriculares.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A cantina tem opções saudáveis e saborosas.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "As aulas são muito cansativas e monótonas.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Hoje tivemos aula de matemática e história.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Os eventos escolares são sempre divertidos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "O professor utilizou um quadro branco durante a aula.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Não gostei da forma como o professor explicou o conteúdo.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A direção sempre escuta os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "A sala de aula estava limpa.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Me sinto motivado a aprender aqui.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Cheguei na escola às 7h30.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Entreguei meu trabalho de geografia.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "Sinto que não sou ouvido pela coordenação.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "Houve uma apresentação no pátio da escola.",
+    "sentimento": "Neutro"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Faltou luz durante parte da manhã.",
+    "sentimento": "Negativo"
+  },
+  {
+    "texto": "A escola oferece ótimos recursos para os alunos.",
+    "sentimento": "Positivo"
+  },
+  {
+    "texto": "Os banheiros estão sempre sujos.",
+    "sentimento": "Negativo"
+  }
+]
