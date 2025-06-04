@@ -1,12 +1,18 @@
+import datetime
+import json
 import os
-from pathlib import Path
 
 from agents.feedback.feedback_training import train_model
 from agents.feedback.nlp_processor import NLPProcessor
 from collections import Counter, defaultdict
 
+from agents.feedback.topic_modeling import TopicModeler
+from agents.feedback.utils import calculate_urgency
+
+
 class FeedbackAnalyzer:
     def __init__(self, model_dir_name="sentiment-model"):
+        self.topic_modeler = TopicModeler()
         current_file_dir = os.path.dirname(os.path.abspath(__file__))
         models_base_dir = os.path.join(current_file_dir, "models")
         self.model_path = os.path.join(models_base_dir, model_dir_name)
@@ -36,6 +42,29 @@ class FeedbackAnalyzer:
             "embedding": embedding.tolist()
         }
 
+    def gerar_feedback_dashboard(self, feedbacks):
+        resultados_individuais = []
+        for texto in feedbacks:
+            resultado = self.analisar_feedback(texto)
+            resultado["aluno_id"] = None
+            resultado["timestamp"] = datetime.datetime.now().isoformat()
+            resultado["topico"] = self.topic_modeler.predict_topic(
+                self.nlp.preprocess_text(texto)
+            )
+            resultado["urgencia"] = calculate_urgency(resultado["sentimento"], resultado["topico"])
+
+            resultados_individuais.append(resultado)
+
+        resumo_geral = self.resumir_feedbacks(resultados_individuais)
+
+        response_body = json.dumps({
+            "tipo": "feedbacks_analisados",
+            "resumo": resumo_geral,
+            "detalhado": resultados_individuais
+        })
+
+        return response_body
+
     def resumir_feedbacks(self, resultados):
         contador_labels = Counter()
         soma_confiancas = 0
@@ -43,6 +72,7 @@ class FeedbackAnalyzer:
         contagem_por_label = Counter()
 
         for r in resultados:
+            print(r)
             label = r["sentimento"]["label"]
             score = r["sentimento"]["score"]
 

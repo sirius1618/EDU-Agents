@@ -165,8 +165,6 @@ def student_dashboard_api(student_id):
         logging.exception(f"Erro ao processar dados do aluno {student_id}: {e}")
         return jsonify({"error": str(e)}), 500
 
-
-
 if __name__ == "__main__":
     # asyncio.run(executar_agentes())
     asyncio.run(executar_aplicacao_dashboard_apenas())

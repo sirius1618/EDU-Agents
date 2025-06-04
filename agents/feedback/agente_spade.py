@@ -5,8 +5,10 @@ from spade.agent import Agent
 from spade.behaviour import CyclicBehaviour
 from spade.message import Message
 
-from feedback_analyzer import FeedbackAnalyzer
-from topic_modeling import TopicModeler
+from agents.feedback.feedback_analyzer import FeedbackAnalyzer
+from agents.feedback.topic_modeling import TopicModeler
+from agents.feedback.utils import calculate_urgency
+
 
 class AgenteFeedback(Agent):
     def __init__(self, jid, password):
@@ -23,21 +25,6 @@ class AgenteFeedback(Agent):
             self.topic_modeler.fit(texts)
         except FileNotFoundError:
             logging.warning("Dados históricos não encontrados. Usando modelo padrão.")
-
-
-def calculate_urgency(sentimento, topico):
-    base_score = 3
-
-    if sentimento['normalized'] < -0.5:
-        base_score += 1
-    elif sentimento['normalized'] > 0.7:
-        base_score -= 1
-
-    if topico['topic_name'] == "Dificuldade Conceitual":
-        base_score += 1
-
-    return min(max(base_score, 1), 5)
-
 
 class ProcessarFeedbackBehaviour(CyclicBehaviour):
     async def on_start(self):
