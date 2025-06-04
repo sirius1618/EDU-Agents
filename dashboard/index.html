@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard de Desempenho Estudantil</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/dashboard/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Análise de Desempenho dos Alunos</h1>
+        
+        <div class="stats-container">
+            <div class="stat-card">
+                <h3>Média Matemática</h3>
+                <p id="math-avg">Carregando...</p>
+            </div>
+            <div class="stat-card">
+                <h3>Média Linguagens</h3>
+                <p id="language-avg">Carregando...</p>
+            </div>
+            <div class="stat-card">
+                <h3>Alunos com Muitas Faltas</h3>
+                <p id="high-absences">Carregando...</p>
+            </div>
+            <div class="stat-card">
+                <h3>Baixa Entrega de Tarefas</h3>
+                <p id="low-homework">Carregando...</p>
+            </div>
+        </div>
+        
+        <div class="chart-row">
+            <div class="chart-container">
+                <h2>Desempenho em Matemática vs Linguagens</h2>
+                <canvas id="comparisonChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <h2>Relação: Faltas vs Notas em Matemática</h2>
+                <canvas id="absencesChart"></canvas>
+            </div>
+        </div>
+        
+        <div class="chart-row">
+            <div class="chart-container">
+                <h2>Participação vs Notas em Matemática</h2>
+                <canvas id="participationChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <h2>Correlação Entre Variáveis</h2>
+                <canvas id="correlationChart"></canvas>
+            </div>
+        </div>
+        
+        <div class="chart-row">
+            <div class="chart-container full-width">
+                <h2>Top 10 Alunos em Matemática</h2>
+                <canvas id="topStudentsChart"></canvas>
+            </div>
+        </div>
+    </div>
+    
+    <script src="/dashboard/script.js"></script>
+</body>
+</html>
