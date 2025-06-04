@@ -9,11 +9,13 @@ class ProcessadorDados:
     """
 
 
-    def __init__(self, file_path):
-        self.df = pd.read_csv(file_path)
-        self.features = None
-        self.target = None
-    
+    def __init__(self, data):  # Altere o parâmetro para um nome genérico
+        if isinstance(data, pd.DataFrame):
+            self.df = data  # Usa o DataFrame diretamente
+        elif isinstance(data, str):
+            self.df = pd.read_csv(data)  # Lê de um arquivo se for string
+        else:
+            raise ValueError("Parâmetro deve ser um DataFrame ou caminho de arquivo")
     def preparar_dados(self):
         """Prepara os dados para modelagem"""
         # 1. Engenharia de features
