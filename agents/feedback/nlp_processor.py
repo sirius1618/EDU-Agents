@@ -1,11 +1,23 @@
+from typing import Counter
+
 import spacy
-from transformers import pipeline
+from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassification
 from sentence_transformers import SentenceTransformer
 
+
 class NLPProcessor:
-    def __init__(self):
+    def __init__(self, model_path):
         self.nlp_pt = spacy.load("pt_core_news_sm")
-        self.sentiment_analyzer = pipeline("sentiment-analysis",model="neuralmind/bert-large-portuguese-cased")
+
+        # Carrega o modelo de sentimento treinado por você
+        self.sentiment_model_path = model_path
+        self.sentiment_analyzer = pipeline(
+            "sentiment-analysis",
+            model=AutoModelForSequenceClassification.from_pretrained(self.sentiment_model_path),
+            tokenizer=AutoTokenizer.from_pretrained(self.sentiment_model_path)
+        )
+
+        # Você ainda pode manter o modelo de embeddings sem mudar
         self.sentence_model = SentenceTransformer("rufimelo/bert-large-portuguese-cased-sts")
 
     def preprocess_text(self, text):
@@ -17,18 +29,16 @@ class NLPProcessor:
 
     def analyze_sentiment(self, text):
         result = self.sentiment_analyzer(text)[0]
-        print(self.sentiment_analyzer(text))
         return {
-            "label": result['label'],
+            "label": result['label'],  # Agora pode retornar 'Positivo', 'Neutro', 'Negativo'
             "score": result['score'],
             "normalized": self._normalize_sentiment(result)
         }
 
     def _normalize_sentiment(self, result):
-        """Converte saída para escala -1 (neg) a 1 (pos)"""
-        if result['label'] == 'LABEL_1':
-            return result['score']
-        return -result['score']
+        """Converte saída para escala -1 (Negativo) a 1 (Positivo), 0 para Neutro"""
+        label_map = {"Negativo": -1, "Neutro": 0, "Positivo": 1}
+        return label_map.get(result['label'], 0) * result['score']
 
     def get_semantic_embedding(self, text):
         return self.sentence_model.encode(text)
